@@ -63,6 +63,99 @@
           "FunctionalVideo":"",
           "TechnicalVideo":""
          }      
-  }
+  },
+       {
+      "ID": "SbSE2",
+      "Name": "MobileExtension",
+      "ScopeItem": "2RW",
+      "Type": "B2C",
+      "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
+      "PublishedDate": "30/05/2016",
+      "Version": "1.4",
+      "LatestVersionChanges": [
+        {
+          "Name": "Fixed Security Issues"
+        },
+        {
+          "Name": "Enhanced UI"
+        },
+        {
+          "Name": "New functionality Added"
+        }
+      ],
+      "VendorType": "Internal",
+      "Vendor": "SAPMobile",
+      "FunctionalCategory": "AdvancedUI",
+      "TechnicalCategory": "Scenario",
+      "Platform": "SCP IOS",
+      "Technology": [
+        {
+          "Name": "Swift"
+        },
+        {
+          "Name": "SAPUI5"
+        }
+      ],
+      "S4AppsUsed": [
+        {
+          "Name": "CoreFinance"
+        },
+        {
+          "Name": "ProcureToPay"
+        }
+      ],
+      "S4ServicesUsed": [
+        {
+          "Name": "SalesOrder"
+        },
+        {
+          "Name": "PurchaseOrder"
+        },
+        {
+          "Name": "BusinessEvents"
+        }
+      ],
+      "Keywords": [
+        {
+          "Name": "Custom Business Object"
+        },
+        {
+          "Name": "One-time Customer"
+        },
+        {
+          "Name": "Shipping Address"
+        }
+      ],
+      "Long Description": "build a small web shop-like app deployed to SAP Cloud Platform and read data from/write back data to your S/4 HANA cloud system. When ordering a product, a sales order gets created.",
+      "FocalPoints": [
+        {
+          "Name": "Creation of a custom business object in SAP S/4HANA Cloud"
+        },
+        {
+          "Name": "Connection setup of the SAP S/4HANA Cloud system and SAP Cloud Platform"
+        },
+        {
+          "Name": "Creation of a complex sample Java application (with a simple UI)"
+        }
+      ],
+      "FurtherUsecases": [
+        {
+          "Name": "Creation of a custom business object in SAP S/4HANA Cloud"
+        },
+        {
+          "Name": "Connection setup of the SAP S/4HANA Cloud system and SAP Cloud Platform"
+        },
+        {
+          "Name": "Creation of a complex sample Java application (with a simple UI)"
+        }
+      ],
+      "Links": {
+        "GitHub": "",
+        "SetupGuide": "",
+        "ProcessDiagram": "",
+        "FunctionalVideo": "",
+        "TechnicalVideo": ""
+      }
+    }
   ]
 }
