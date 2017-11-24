@@ -5,7 +5,7 @@
       "Name": "SideBySideExtension",
       "ScopeItem": "1RW",
       "Type": "B2C",
-      "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
+      "ShortDescription": "Extension Scenario to create the sales order for one-time customer using SAP Cloud Platorm with complete architecture flow and detailed use case.",
       "PublishedDate": "30/05/2017",
       "Version": "1.3",
       "LatestVersionChanges": [
@@ -62,7 +62,7 @@
           "Name": "Shipping Address"
         }
       ],
-      "Long Description": "build a small web shop-like app deployed to SAP Cloud Platform and read data from/write back data to your S/4 HANA cloud system. When ordering a product, a sales order gets created.",
+      "Long Description": "SideBySideExtension describes the best way to build a small web shop application and guidelines to deployed it to SAP Cloud Platform.\nFunctionality includes read/write data operations to your S/4 HANA cloud system. Scenario use case covers Customer orders a product, a sales order gets generated. This example covers end to end detailed implementation, leveraging the SAP Cloud Platfrom.",
       "FocalPoints": [
         {
           "Name": "Creation of a custom business object in SAP S/4HANA Cloud"
@@ -86,11 +86,11 @@
         }
       ],
       "Links": {
-        "GitHub": "",
-        "SetupGuide": "",
+        "GitHub": "https://github.com/SAP/cloud-s4-sample-ext/tree/master/extorderapp",
+        "SetupGuide": "https://rapid.sap.com/bp/#/browse/scopeitems/1RW",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     },
     {
@@ -182,13 +182,13 @@
         "GitHub": "",
         "SetupGuide": "",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     },
     {
       "ID": "SbSE4",
-      "Name": "MapExtension",
+      "Name": "Map Extension",
       "ScopeItem": "4RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the Analystics order for one-time customer",
@@ -275,13 +275,13 @@
         "GitHub": "",
         "SetupGuide": "",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     },
     {
       "ID": "SbSE5",
-      "Name": "IOTExtension",
+      "Name": "IOT Extension",
       "ScopeItem": "5RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
@@ -368,13 +368,13 @@
         "GitHub": "",
         "SetupGuide": "",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     },
     {
       "ID": "SbSE6",
-      "Name": "DataMartExtension",
+      "Name": "DataMart Extension",
       "ScopeItem": "6RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
@@ -467,7 +467,7 @@
     },
     {
       "ID": "SbSE7",
-      "Name": "JarvisExtension",
+      "Name": "Jarvis Extension",
       "ScopeItem": "7RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
@@ -560,7 +560,7 @@
     },
     {
       "ID": "SbSE2",
-      "Name": "MobileExtension",
+      "Name": "Mobile Extension",
       "ScopeItem": "2RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
@@ -647,13 +647,13 @@
         "GitHub": "",
         "SetupGuide": "",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     },
     {
       "ID": "SbSE9",
-      "Name": "WatchExtension",
+      "Name": "Watch Extension",
       "ScopeItem": "9RW",
       "Type": "B2C",
       "ShortDescription": "Extension Scenario to create the sales order for one-time customer",
@@ -740,8 +740,8 @@
         "GitHub": "",
         "SetupGuide": "",
         "ProcessDiagram": "",
-        "FunctionalVideo": "",
-        "TechnicalVideo": ""
+        "FunctionalVideo": "https://www.youtube.com/sap",
+        "TechnicalVideo": "https://www.youtube.com/sap"
       }
     }
   ]
