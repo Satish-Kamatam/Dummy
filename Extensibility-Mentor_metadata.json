@@ -23,7 +23,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "Java"
@@ -116,7 +116,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "Java"
@@ -184,6 +184,9 @@
         "ProcessDiagram": "",
         "FunctionalVideo": "https://video.sap.com/media/t/1_1ju6d108",
         "TechnicalVideo": "https://video.sap.com/media/t/1_1ju6d108"
+      },
+      "additionalProperties":{
+        "NewFeature":"true"
       }
     },
     {
@@ -209,7 +212,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "Android"
@@ -302,7 +305,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "IOT"
@@ -395,7 +398,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "DataMining"
@@ -488,7 +491,7 @@
       "Vendor": "SAP",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP Neo",
+      "Platform": "SCP",
       "Technology": [
         {
           "Name": "MachineLearning"
@@ -577,11 +580,11 @@
           "Name": "New functionality Added"
         }
       ],
-      "VendorType": "Internal",
-      "Vendor": "SAPMobile",
+      "VendorType": "External",
+      "Vendor": "Vendor2",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP IOS",
+      "Platform": "SCP, iOS",
       "Technology": [
         {
           "Name": "Swift"
@@ -670,11 +673,11 @@
           "Name": "New functionality Added"
         }
       ],
-      "VendorType": "Internal",
-      "Vendor": "SAPMobile",
+      "VendorType": "External",
+      "Vendor": "Vendor1",
       "FunctionalCategory": "AdvancedUI",
       "TechnicalCategory": "Scenario",
-      "Platform": "SCP IOS",
+      "Platform": "SCP, iOS",
       "Technology": [
         {
           "Name": "Swift"
@@ -743,8 +746,8 @@
         "FunctionalVideo": "https://www.youtube.com/sap",
         "TechnicalVideo": "https://www.youtube.com/sap"
       },
-      "additionalProperties":{
-        "NewFeature":"true"
+      "additionalProperties": {
+        "NewFeature": "true"
       }
     }
   ]
