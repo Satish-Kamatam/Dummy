@@ -280,7 +280,11 @@
         "ProcessDiagram": "",
         "FunctionalVideo": "https://www.youtube.com/sap",
         "TechnicalVideo": "https://www.youtube.com/sap"
+      },
+      "additionalProperties":{
+        "NewFeature":"true"
       }
+      
     },
     {
       "ID": "SbSE5",
@@ -466,6 +470,9 @@
         "ProcessDiagram": "",
         "FunctionalVideo": "",
         "TechnicalVideo": ""
+      },
+      "additionalProperties":{
+        "NewFeature":"true"
       }
     },
     {
